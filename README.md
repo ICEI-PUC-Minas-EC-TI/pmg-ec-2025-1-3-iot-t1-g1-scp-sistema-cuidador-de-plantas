@@ -11,20 +11,18 @@
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+Leonardo de Souza Fernandes
 
 ## Orientador
 
-* Nome completo do professor 1 (Nome do professor de IoT1)
-* Nome completo do professor 2 (Nome do professor de Banco de Dados)
+Julio Cesar Dillinger Conway
+
 
 ## Resumo
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto desenvolvido é o SCP – Sistema Cuidador de Plantas, uma solução tecnológica para o monitoramento e cuidado automatizado de plantas. O sistema coleta dados ambientais, como umidade do solo, temperatura e luminosidade, e permite que o usuário defina valores específicos para ativação dos atuadores, como sistemas de irrigação e ventilação. Dessa forma, o sistema atua automaticamente para manter as condições ideais para o crescimento das plantas, garantindo eficiência no uso dos recursos.
+
+Com essa configuração personalizada, o SCP oferece maior controle e flexibilidade para o usuário, que pode ajustar os parâmetros conforme a necessidade de cada planta ou ambiente. O sistema também pode ser monitorado remotamente, facilitando o manejo e promovendo sustentabilidade no cuidado das plantas.
 
 # Código (do arduino ou esp32)
 
