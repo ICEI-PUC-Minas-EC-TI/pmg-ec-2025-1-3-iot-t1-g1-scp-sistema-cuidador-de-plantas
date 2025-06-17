@@ -1,12 +1,12 @@
-# TÍTULO DO PROJETO
+# SCP – Sistema cuidador de plantas
 
-`CAMPUS`
+`Coração Eucarístico`
 
-`CURSO`
+`Engenharia da computação`
 
-`SEMESTRE`
+`terceiro semestre`
 
-`DISCIPLINA`
+`IOT`
 
 
 ## Integrantes
